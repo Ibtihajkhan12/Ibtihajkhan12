@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Ibtihajkhan12
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Ibtihajkhan
+- 👀 I’m interested in Frelansing
 - 🌱 I’m currently learning in Saylani Mass IT Training
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
