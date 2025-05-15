@@ -7,8 +7,7 @@
 
 - 📫 How to reach me **ibtihaajkhaan@gmail.com**
 
-- ⚡ Fun fact **Coding is everything
-- **
+- ⚡ Fun fact **Coding is everything**
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
